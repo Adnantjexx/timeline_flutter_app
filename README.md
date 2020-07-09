@@ -1,6 +1,9 @@
 # timelineflutter
 
-A new Flutter application.
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+
+![](https://i.postimg.cc/pTsQfdN7/1-1.png)
+![](https://i.postimg.cc/7hcgRQZn/2-1.png)
 
 ## Getting Started
 
